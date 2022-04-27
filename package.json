@@ -1,0 +1,26 @@
+{
+  "name": "api-dindin-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": ".\\node_modules\\.bin\\nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainierpironi/api-dindin-admin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rainierpironi/api-dindin-admin/issues"
+  },
+  "homepage": "https://github.com/rainierpironi/api-dindin-admin#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.0",
+    "nodemon": "^2.0.15"
+  }
+}
